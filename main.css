@@ -1,12 +1,17 @@
 h1 {
     font-size: ;
     font-family: ;
-    padding: ;
-    margin: ;
+    padding: 50px;
+    margin: 50px;
     font-weight: ;
     text-decoration: ;
+    text-align: center;
     color: ;
     background-color: ;
+}
+
+.header2 {
+    background-color: aqua;
 }
 
 h2 {
@@ -15,6 +20,7 @@ h2 {
     padding: ;
     margin: ;
     font-weight: ;
+    text-align: center;
     color: ;
     background-color: ;
 }
@@ -24,6 +30,7 @@ p {
     font-size: ;
     padding: ;
     margin: ;
+    text-align: center;
     color: ;
     background-color: ;
 }
