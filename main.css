@@ -36,8 +36,14 @@ h2 {
     text-align: center;
     color: ;
     background-color: ;
+    content: ':-)';
     
 }
+
+h2::before {
+    content: ':-)';
+}
+
 
 
 div.first-paragraph {
